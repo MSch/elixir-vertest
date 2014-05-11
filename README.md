@@ -1,7 +1,7 @@
 # failing version test
 
 ```shell
-mix do deps.get
+mix deps.get
 mix test
 ```
 
