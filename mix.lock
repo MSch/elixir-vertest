@@ -1,0 +1,2 @@
+%{"jsx": {:git, "git://github.com/talentdeficit/jsx.git", "60a6b7cabe69e2ec6eeb26ef86ea0553eeac34a2", [branch: "develop"]},
+  "jsxn": {:package, "0.2.0"}}
